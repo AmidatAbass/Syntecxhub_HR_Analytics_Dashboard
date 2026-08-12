@@ -109,9 +109,6 @@ The Power BI dashboard includes:
 - Department and Job Role slicers for interactive filtering.
 - A Key Insights section summarizing the main findings.
 
-Dashboard Preview
-<![HR Analytics Dashboard](HRAnalyticsDashboard.png)- Add your dashboard screenshot to the repository and replace the filename below -->"HR Analytics Dashboard" (dashboard_screenshot.png)
-
 Tools Used;
 **Microsoft Excel**
 Used for:
